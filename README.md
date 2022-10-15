@@ -17,7 +17,7 @@
 </div>
 <div align='center'>
 
-[![SeokHuns's github stats](https://github-readme-stats.vercel.app/api?username=suhyunking&show_icons=true&title_color=6ab04c&text_color=6ab04c&icon_color=f9ca24)](https://github.com/suhyunking/github-readme-stats)
+[![SuHyun's github stats](https://github-readme-stats.vercel.app/api?username=suhyunking&show_icons=true&title_color=6ab04c&text_color=6ab04c&icon_color=f9ca24)](https://github.com/suhyunking/github-readme-stats)
 
 </div>
 
